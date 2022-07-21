@@ -1,3 +1,13 @@
+.container {
+  display: flex;
+  justify-content: flex-start;
+  flex-flow: row-wrap;
+  background-color: rgb(167, 93, 93);
+ color: white;
+  
+
+}
+
 body {
   background-color: rgb(252, 246, 238);
 }

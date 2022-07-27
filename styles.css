@@ -1,9 +1,9 @@
 .container {
-  display: flex;
+  display: flexbox;
   justify-content: flex-start;
   flex-flow: row-wrap;
   background-color: rgb(167, 93, 93);
- color: white;
+  color: white;
   
 
 }
@@ -22,4 +22,11 @@ button {
 image {
   height: auto;
   width:fit-content
+}
+
+footer {
+  display: flexbox;
+  background-color: rgb(167, 93, 93);
+  align-items: center;
+  color: white;
 }
